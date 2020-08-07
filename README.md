@@ -28,7 +28,7 @@
 
 <ol>
   <li>Python 3</li>
-  <li>DataSet: <ul><a>https://www.covid19survivalcalculator.com/download</a>Nexoid Covid-19.</ul> </li>
+  <li>DataSet: <a href="https://www.covid19survivalcalculator.com/download">Nexoid Covid-19.</a></li>
 </ol><br>
 
 <p><strong>Dependencias: </strong></p>
