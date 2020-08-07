@@ -4,6 +4,7 @@
 
 <ol>
   <li>Covid19-MachineLearning.html, visualización del desarrollo del metodo, paso a paso en foramato html.</li>
+  <li>Archivo .ipynb, "Cuaderno de Jupyter" donde podra evidenciar todos lo metodos progrmados y experimentar segun su conveniencia.</li>
 </ol>
 
 <p>Trabajando en un cuaderno de jupyter, se ha logrado demostrar, entre 3 tipos de regresiones: lineal, polinomial y bayesiana, cual de ellas arroja un mejor resultado, basándonos para ello en el error de cada tipo de regresión.</p>
