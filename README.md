@@ -9,7 +9,7 @@
   <li>DatosCovidProcesado.part02.rar, segunda parte del conjunto de datos procesado.</li>
 </ol>
 
-El conjunto de dato procesado ha sido dividido en 2 partes por lo extenso del mimo. <br>
+<p>El conjunto de dato procesado ha sido dividido en 2 partes por lo extenso del mismo.</p><br>
 
 <p>Trabajando en un cuaderno de jupyter, se ha logrado demostrar, entre 3 tipos de regresiones: lineal, polinomial y bayesiana, cual de ellas arroja un mejor resultado, basándonos para ello en el error de cada tipo de regresión.</p>
 <p>También se ha estudiado, el tipo de conjunto de datos resulta más eficiente para el aprendizaje de máquina, si un conjunto de datos con reducción de componentes o uno sin PCA.</p>
@@ -28,7 +28,7 @@ El conjunto de dato procesado ha sido dividido en 2 partes por lo extenso del mi
 
 <ol>
   <li>Python 3</li>
-  <li>DataSet: <ul><a>https://www.kaggle.com/</a>[1]</ul> </li>
+  <li>DataSet: <ul><a>https://www.covid19survivalcalculator.com/download</a>Nexoid Covid-19.</ul> </li>
 </ol><br>
 
 <p><strong>Dependencias: </strong></p>
