@@ -1,4 +1,4 @@
-# Covid19---Machine-Learning
+# Covid19 Machine-Learning
 
 <p><strong>Estructura del Repositorio: </strong></p>
 
